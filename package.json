@@ -1,6 +1,6 @@
 {
-	"author": "Chawang Lama",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Chawang Lama",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
